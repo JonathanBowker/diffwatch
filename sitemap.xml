@@ -56,7 +56,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/2022/09/12/blog-support-just-landed/</loc>
+         <loc>https://jonathanbowker.github.io/diffwatch/blog/2023/03/12/blog-support-just-landed/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -441,6 +441,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/blog/archive/2023/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jonathanbowker.github.io/diffwatch/blog/archive/2022/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
@@ -452,6 +457,11 @@
     </url>
     <url>
          <loc>https://jonathanbowker.github.io/diffwatch/blog/category/blog/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/alert/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
