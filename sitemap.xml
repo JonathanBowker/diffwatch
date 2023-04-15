@@ -66,21 +66,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/2021/09/26/excluding-content-from-search/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/2021/09/13/search-better-faster-smaller/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/2021/12/27/the-past-present-and-future/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://jonathanbowker.github.io/diffwatch/changelog/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
@@ -451,7 +436,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/archive/2021/</loc>
+         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/blog/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -461,22 +446,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/blog/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://jonathanbowker.github.io/diffwatch/blog/category/search/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/general/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/performance/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
