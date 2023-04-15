@@ -86,6 +86,106 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-adm/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-ai/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-apps/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-breach-management/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-child-data/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-controller-controller/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-cross-border/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-data-brokers/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-disclosure/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-dpo/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-governance/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-international/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-lawful-basis/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-laws/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-livestreaming/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-novel-tech/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-pseudonymisation/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-security/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/country-thailand-subjects-rights/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jonathanbowker.github.io/diffwatch/contributing/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
@@ -122,86 +222,6 @@
     </url>
     <url>
          <loc>https://jonathanbowker.github.io/diffwatch/insiders/getting-started/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/admonitions/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/annotations/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/buttons/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/code-blocks/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/content-tabs/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/data-tables/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/diagrams/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/footnotes/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/formatting/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/grids/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/icons-emojis/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/images/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/lists/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/mathjax/</loc>
-         <lastmod>2023-04-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/reference/tooltips/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -317,6 +337,11 @@
     </url>
     <url>
          <loc>https://jonathanbowker.github.io/diffwatch/setup/extensions/python-markdown/</loc>
+         <lastmod>2023-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/watchers/</loc>
          <lastmod>2023-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
