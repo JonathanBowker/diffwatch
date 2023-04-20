@@ -71,6 +71,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jonathanbowker.github.io/diffwatch/comparisons/</loc>
+         <lastmod>2023-04-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jonathanbowker.github.io/diffwatch/comparisons/thailand/</loc>
          <lastmod>2023-04-20</lastmod>
          <changefreq>daily</changefreq>
@@ -536,12 +541,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/blog/</loc>
+         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/alert/</loc>
          <lastmod>2023-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/alert/</loc>
+         <loc>https://jonathanbowker.github.io/diffwatch/blog/category/blog/</loc>
          <lastmod>2023-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
